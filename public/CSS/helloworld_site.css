@@ -1,0 +1,134 @@
+/*
+this content is stored in a file named "site.css"
+in a directory named "css" in the web root
+*/
+
+ body {
+    background-image: url(/img/darkpurple.jpg);
+    background-size: contain;
+
+}
+
+div.div1 {
+    color: goldenrod;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 1px 1px 2px white, 0 0 25px black, 5px 5px 5px purple;
+    text-decoration: underline;
+}
+
+ span {
+    font-size: 65px;
+    color: goldenrod;
+}
+
+ p.p1 {
+    color: white;
+    text-indent: 50px;
+
+}
+
+ strong em { 
+    font-size: 25px;
+}
+ 
+ span1 {
+    text-decoration: line-through;
+    color: white;
+    border: white;
+    background-color: grey;
+}
+
+ div {
+    color: white;
+    border-color: white;
+    background-color: ;
+
+}
+
+ h2.h2 {
+    color: GoldenRod;
+    text-align: center;
+    text-shadow: white;
+    margin-left: 100px;
+    text-decoration: underline;
+}
+
+ h2 {
+    text-align: center;
+    color: goldenrod;
+    text-decoration: underline;     
+}
+
+ p {
+    color: white;
+}
+
+ footer {
+    color: white;
+    font-size: 25px;
+}
+
+li {
+    color: white;
+}
+
+ul.b {
+    list-style-type: square;
+    color: white;
+}
+
+td {
+    color: white;
+      text-align: center;h
+}
+
+tr {
+    color: goldenrod;
+
+}
+
+dt {
+    color: white;
+}
+
+dd {
+    color: goldenrod;
+}
+
+a:link { 
+    color: white;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a:hover {
+    color: teal;
+}
+
+img {
+    background-image: url(/img/ptesla.jpg)
+    background-repeat: no-repeat;
+    padding-right: 33%;
+    padding-left: 33%;
+    height: 25%;
+    width: 35%;
+
+}
+
+p.1 {
+    color: teal;
+}
+ p.bottom {
+    text-align: center;
+ }
+
+p.tfont {
+    color: white;
+    text-align: center;
+}
+
+
+

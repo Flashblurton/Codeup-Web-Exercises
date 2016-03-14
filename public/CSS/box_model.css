@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+}
+
+p {
+    position: relative;
+    top: -15px;
+    font-weight: bolder;
+    color: white;
+}
+
+.red {
+    border: 3px outset #000;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    margin: 10px 0px 0px 0px;
+   background-color: red;    
+}
+
+.orange {
+    margin: 10px 0px 0px 30px;
+    border: 3px outset #000;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    background-color: orange;
+}
+
+.yellow {
+    margin: 10px 0px 0px 60px;
+    border: 3px outset #000;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    background-color: yellow;
+}
+
+.green {
+    margin: 10px 0px 0px 90px;
+    border: 3px outset #000;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    background-color: green;
+}
+
+.blue {
+    margin: 10px 0px 0px 120px;
+    border: 3px outset #000;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    background-color: blue;
+}
+
+.purple {
+    margin: 10px 0px 0px 150px;
+    border: 3px outset #000;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    background-color: purple;
+}
+
+
+
+

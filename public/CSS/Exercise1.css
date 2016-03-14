@@ -1,0 +1,90 @@
+body {
+    background-color:white;
+    border-radius: 25px;
+}
+
+table {
+    border-style: solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.table2 {
+
+}
+
+h1 { 
+text-align: center; 
+color: purple;
+text-decoration: underline;
+}
+
+th.time, .sun, .mon, .tues, .wed, .thur, .fri {
+    border-style: none;
+    border-width: 1px;
+    border-collapse: collapse;
+    border-color: none;
+    border-radius: 14px;
+}
+
+th.sun,.tues,.thur, .time {
+     font-style: oblique;
+     background-color: #4CAF50;
+     color: none;
+     border-style: none;
+}
+
+td.awake {
+        text-align: center;
+}
+
+td:hover {
+ text-align: center;
+ background-color: grey;  
+}
+
+td.awake {
+    color:purple;
+}
+
+td.thrive {
+    color: red;
+}
+
+td.venus {
+    color: teal;
+}
+
+td.emagnet {
+    color: goldenrod;
+}
+
+td.food {
+    color: green;
+}
+
+td.code {
+    color: #663300;
+}
+
+td.future {
+    color: #000099;
+}
+
+td.aud {
+    color: #ff66ff;
+}
+
+td.sound {
+    color: black;
+}
+
+td.solar {
+    color: yellow;
+}
+
+td.rasp {
+    color: #660033;
+}
+
+
